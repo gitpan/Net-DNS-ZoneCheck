@@ -1,0 +1,5 @@
+Revision history for Perl extension Net::DNS::ZoneCheck.
+
+0.01  Wed Sep  8 15:40:00 2004
+	- original version; created by h2xs 1.19
+
